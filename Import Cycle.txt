@@ -1,0 +1,27 @@
+Import Cycle:
+Material: RMMGN100133 / RMCOK100330 / RMCOL101490 / RMOTH101933 / RMOTH100393(Ins. plan setup)
+Supplier: 2000004 / 2000071 / 2000120 / 2000136
+Final Material: RMOTH100393
+Contract No.: 9640003449(line 30)
+Import Order No.: 3700000321 (90 MT)
+Import Gatepass No.: NA
+Import Weighbridge: NA
+Import GRN: 5001323108(Cancelled) / 5001323109 (Cancel GRN No.) / 5001323110 (90 MT)
+Inspection Lot No.: 10001442426 (90 MT)
+STO No.: 3200000808 (90 MT)
+Outbound Delivery: 80774913 (60 MT) / 80774914 (30 MT)
+PGI: 80774913 (PGI Done) / 80774914 (PGI Done)
+Service Contract: 9640003451 (90 MT)
+Gatepass No.: 3310013544(30 MT) / 3310013545 (30 MT) / 3310013546 (30 MT)
+Weighbridge:
+STO GRN:
+
+
+
+Errors:
+1.Control Code Should not be blank - Customised - Did not enter plant in contract
+2.Quality inspection parameters - Customised Checks control - Enter parameter in quality inspection tab
+3.Please provide Overseas Supplier in Customer Tab - Customised - Enter import vendor code in customer data tab header
+4.Please provide BE details in customer tab - Customised - Enter Bill of Entry Details in customer data tab item detail
+5.Deficit of BA Unrestricted-use - Standard - Stock not available check if material has been entered for quality inspection
+6. Kindly enter contract no. - Customised Checks control - While creating gatepass contract is mandatory 
