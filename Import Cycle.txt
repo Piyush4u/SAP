@@ -25,3 +25,20 @@ Errors:
 4.Please provide BE details in customer tab - Customised - Enter Bill of Entry Details in customer data tab item detail
 5.Deficit of BA Unrestricted-use - Standard - Stock not available check if material has been entered for quality inspection
 6. Kindly enter contract no. - Customised Checks control - While creating gatepass contract is mandatory 
+
+
+
+
+
+Project Cycle:
+Material: SCSTR29273
+WBS Element: S321A-000001-2
+Purchase Requisition: 1400001899(53.25 MT)
+RFQ: NA (due to no configuration with customised document type and standard document type)
+Outline Agreement: 9640003452
+Purchase Order No.: 2320002785
+Service contract for third party transporter: 9640003453
+Gatepass:
+Weighbridge: 
+MIGO: 
+MIRO: 
