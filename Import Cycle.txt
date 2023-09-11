@@ -15,9 +15,9 @@ Service Contract: 9640003451 (90 MT)
 Gatepass No.: 3310013544(30 MT) / 3310013545 (30 MT) / 3310013546 (30 MT)
 Weighbridge:
 STO GRN:
+MIRO: 
 
-
-
+
 Errors:
 1.Control Code Should not be blank - Customised - Did not enter plant in contract
 2.Quality inspection parameters - Customised Checks control - Enter parameter in quality inspection tab
@@ -25,6 +25,7 @@ Errors:
 4.Please provide BE details in customer tab - Customised - Enter Bill of Entry Details in customer data tab item detail
 5.Deficit of BA Unrestricted-use - Standard - Stock not available check if material has been entered for quality inspection
 6. Kindly enter contract no. - Customised Checks control - While creating gatepass contract is mandatory 
+
 
 
 
