@@ -39,7 +39,7 @@ RFQ: NA (due to no configuration with customised document type and standard docu
 Outline Agreement: 9640003452
 Purchase Order No.: 2320002785
 Service contract for third party transporter: 9640003453
-Gatepass:
+Gatepass: 3940004307 (30 MT)/ 
 Weighbridge: 
 MIGO: 
 MIRO: 
